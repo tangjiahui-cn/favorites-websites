@@ -1,8 +1,12 @@
 import { defineConfig } from "vitepress";
+import pkg from "../../package.json";
+
+// 构建目标
+const target = process.env.target;
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "./",
+  base: target === "github" ? `/${pkg.name}/` : "/",
   title: "Front Website",
   description: "一个前端技术收藏站点",
   themeConfig: {
