@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "./",
   title: "Front Website",
   description: "一个前端技术收藏站点",
   themeConfig: {
