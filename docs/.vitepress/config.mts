@@ -14,13 +14,15 @@ export default defineConfig({
     nav: [
       { text: "前端技术", link: "/article/front" },
       { text: "面试网站", link: "/article/face" },
+      { text: "前端库", link: "/article/lib" },
     ],
     sidebar: [
       {
         text: "",
         items: [
-          { text: "前端知识点", link: "/article/front" },
-          { text: "面试八股文", link: "/article/face" },
+          { text: "前端技术", link: "/article/front" },
+          { text: "面试网站", link: "/article/face" },
+          { text: "前端库", link: "/article/lib" },
         ],
       },
     ],
