@@ -8,6 +8,7 @@
 - [lodash-es](https://www.npmjs.com/package/lodash-es)：lodash 的 es 版本（按需加载）。
 - [moment](https://www.npmjs.com/package/moment)：日期时间处理库。
 - [dayjs](https://www.npmjs.com/package/dayjs)：仅 2kb 且兼容 moment 的日期时间处理库。
+- [nice-modal-react](https://opensource.ebay.com/nice-modal-react/)：处理弹窗场景的最佳方案。
 
 ## 文件操作
 
