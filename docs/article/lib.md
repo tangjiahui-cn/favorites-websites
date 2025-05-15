@@ -14,6 +14,7 @@
 
 - [file-saver](https://www.npmjs.com/package/file-saver)：浏览器端保存各类资源文件。
 - [jszip](https://www.npmjs.com/package/jszip)：创建、读写.zip 文件的 js 库。
+- [sharp](https://www.npmjs.com/package/sharp)：Node.js 图片处理库，可以转换成 jpeg、png、webp、gif、avif 等格式。
 
 ## nodejs
 
