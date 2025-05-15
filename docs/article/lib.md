@@ -18,4 +18,5 @@
 
 ## nodejs
 
+- [ora](https://www.npmjs.com/package/ora)：命令行应用提供漂亮的加载中效果。
 - [cross-env](https://www.npmjs.com/package/cross-env)：方便的设置环境变量（跨平台）。
