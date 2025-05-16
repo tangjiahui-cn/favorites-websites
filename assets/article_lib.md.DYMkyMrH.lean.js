@@ -1,0 +1,1 @@
+import{_ as a,c as r,o as l,af as t}from"./chunks/framework.Dinaunsn.js";const f=JSON.parse('{"title":"前端库","description":"","frontmatter":{},"headers":[],"relativePath":"article/lib.md","filePath":"article/lib.md"}'),s={name:"article/lib.md"};function n(o,e,i,c,p,h){return l(),r("div",null,e[0]||(e[0]=[t("",8)]))}const d=a(s,[["render",n]]);export{f as __pageData,d as default};
