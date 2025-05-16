@@ -30,4 +30,3 @@
 - [你是否好奇，前端专家的简历怎么写？](https://juejin.cn/post/7260516157786325050)
 - [只有 x 年前端经验，简历到底怎么改？](https://mp.weixin.qq.com/s?__biz=Mzk0NTI2NDgxNQ==&mid=2247488684&idx=1&sn=c3eea0a1fa2e31ce35ad84bf7882600c&chksm=c319556cf46edc7a47fa9f43f46f134ce5a44d64ecf0f5104ce265bf84efdebcf4675b514c39&token=1438363139&lang=zh_CN#rd)
 - [【前端面试必杀技】前端面试中如何完美回答项目难点与亮点](https://juejin.cn/post/7492967922677366819)
-- [透过现象看本质: 常见的前端架构风格和案例](https://juejin.cn/post/6844903943068205064)
